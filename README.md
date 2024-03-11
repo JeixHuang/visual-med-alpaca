@@ -19,7 +19,7 @@ Introducing [**Visual Med-Alpaca**](https://github.com/cambridgeltl/visual-med-a
 ![](docs/files/demo.gif)
 
   
-Please fill out [this form](https://forms.gle/X4A8sib7qpU499dY8) to access the online demo. **Warning: Only for academic usage and do not apply to real clinical scenarios!**
+We discountinued serving the online demo due to limited GPU server resources. We apologize for the inconvience. We provide a gradio example code [here](https://github.com/cambridgeltl/visual-med-alpaca/tree/main/code/gradio-example) to demonstrate how you can create a dashboard and put this pipeline together. **Warning: Only for academic usage and do not apply to real clinical scenarios!**
 
 ## Overview
 
@@ -36,12 +36,9 @@ In response to these challenges, we introduce [**Visual Med-Alpaca**](https://gi
   
 ### Resources:  
 
-Please [submit a request](https://forms.gle/X4A8sib7qpU499dY8) to access the checkpoints, tokenizer as well as a huggingface served demo. We apologize for the inconvenience, and this is due to the safety concern and ethical requirements at Cambridge University.
-
 *   Data: [Github](https://github.com/cambridgeltl/visual-med-alpaca/tree/main/data)
 *   Code: [Github](https://github.com/cambridgeltl/visual-med-alpaca/tree/main/code)
-*   Models: [visual-med-alpaca](https://forms.gle/X4A8sib7qpU499dY8), [med-alpaca](https://forms.gle/X4A8sib7qpU499dY8), [med-alpaca-lora](https://forms.gle/X4A8sib7qpU499dY8), [med-git](https://forms.gle/X4A8sib7qpU499dY8)
-*   Demo: [visual-med-alpaca](https://forms.gle/X4A8sib7qpU499dY8)
+*   Models: [visual-med-alpaca](https://forms.gle/X4A8sib7qpU499dY8), [med-alpaca](https://huggingface.co/cambridgeltl/med-alpaca), [med-alpaca-lora](https://huggingface.co/cambridgeltl/med-alpaca-lora), [med-git](https://huggingface.co/cambridgeltl/med-git-base)
 
 ## Model Architecture and Training Pipeline  
   
