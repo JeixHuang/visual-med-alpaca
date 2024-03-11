@@ -38,7 +38,7 @@ In response to these challenges, we introduce [**Visual Med-Alpaca**](https://gi
 
 *   Data: [Github](https://github.com/cambridgeltl/visual-med-alpaca/tree/main/data)
 *   Code: [Github](https://github.com/cambridgeltl/visual-med-alpaca/tree/main/code)
-*   Models: [visual-med-alpaca](https://forms.gle/X4A8sib7qpU499dY8), [med-alpaca](https://huggingface.co/cambridgeltl/med-alpaca), [med-alpaca-lora](https://huggingface.co/cambridgeltl/med-alpaca-lora), [med-git](https://huggingface.co/cambridgeltl/med-git-base)
+*   Models: [med-alpaca](https://huggingface.co/cambridgeltl/med-alpaca), [med-alpaca-lora](https://huggingface.co/cambridgeltl/med-alpaca-lora), [med-git](https://huggingface.co/cambridgeltl/med-git-base)
 
 ## Model Architecture and Training Pipeline  
   
